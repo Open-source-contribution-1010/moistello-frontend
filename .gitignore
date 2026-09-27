@@ -31,8 +31,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files — never commit real values, only .env.example is tracked
-.env
-.env.*
 !.env.example
 
 # vercel
@@ -41,3 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+config.bat
