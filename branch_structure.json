@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/avatar-resize-preview",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/avatar-resize-preview": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/avatar-resize-preview",
+    "origin"
+  ]
+}
